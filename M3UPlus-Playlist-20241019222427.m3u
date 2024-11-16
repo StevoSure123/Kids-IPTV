@@ -1,89 +1,90 @@
-#EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="Disney India SD" tvg-name="Disney India SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",Disney India SD
+#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="114" tvg-name="Disney India SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",Disney India SD
 http://119.156.26.155:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-id="Disney India SD (TATAPLAY-MULTIAUDIO) 2 " tvg-name="Disney India SD 2" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",Disney India SD 2
+#EXTINF:-1 tvg-id="114" tvg-name="Disney India SD 2" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",Disney India SD 2
 http://game.denver1769.in/port/tp3.php?id=11639
 
-#EXTINF:-1 tvg-id="Disney India SD 3" tvg-name="Disney India SD 3" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",Disney India SD 3
+#EXTINF:-1 tvg-id="114" tvg-name="Disney India SD 3" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",Disney India SD 3
 http://bostv.one:8080/85750857500/0004312/92416
 
-#EXTINF:-1 tvg-id="Disney India SD 4" tvg-name="Disney India SD 4" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",Disney India SD 4
+#EXTINF:-1 tvg-id="114" tvg-name="Disney India SD 4" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",Disney India SD 4
 https://tgaadi-web.tech/stalker/portal.m3u8?id=864
 
-#EXTINF:-1 tvg-id="Disney India SD 5" tvg-name="Disney India SD 5" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",Disney India SD 5
+#EXTINF:-1 tvg-id="114" tvg-name="Disney India SD 5" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",Disney India SD 5
 https://bd.spidy.online/MACX/STREAM4K/play.m3u8?id=475134
 
-#EXTINF:-1 tvg-id="Hungama Kids 1" tvg-name="Hungama Kids 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/220px-Hungama_TV.svg.png" group-title="Kids",Hungama Kids 1
+#EXTINF:-1 tvg-id="345" tvg-name="Hungama Kids 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/220px-Hungama_TV.svg.png" group-title="Kids",Hungama Kids 1
 https://tgaadi-web.tech/stalker/portal.m3u8?id=9400
 
-#EXTINF:-1 tvg-id="Hungama Kids 2" tvg-name="Hungama Kids 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/220px-Hungama_TV.svg.png" group-title="Kids",Hungama Kids 2
+#EXTINF:-1 tvg-id="345" tvg-name="Hungama Kids 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/220px-Hungama_TV.svg.png" group-title="Kids",Hungama Kids 2
 http://119.156.26.155:8000/play/a05t/index.m3u8
 
-#EXTINF:-1 tvg-id="Hungama Kids 3" tvg-name="Hungama Kids 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/220px-Hungama_TV.svg.png" group-title="Kids",Hungama Kids 3
+#EXTINF:-1 tvg-id="345" tvg-name="Hungama Kids 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/220px-Hungama_TV.svg.png" group-title="Kids",Hungama Kids 3
 http://starshare.live:8080/live/7382837374/5003958588/18456.m3u8
 
-#EXTINF:-1 tvg-id="Hungama Kids 4" tvg-name="Hungama Kids 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/220px-Hungama_TV.svg.png" group-title="Kids",Hungama Kids 4
+#EXTINF:-1 tvg-id="345" tvg-name="Hungama Kids 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/220px-Hungama_TV.svg.png" group-title="Kids",Hungama Kids 4
 http://bostv.one:8080/85750857500/0004312/92417
 
-#EXTINF:-1 tvg-id="Hungama Kids 5" tvg-name="Hungama Kids 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/220px-Hungama_TV.svg.png" group-title="Kids",Hungama Kids 5
+#EXTINF:-1 tvg-id="345" tvg-name="Hungama Kids 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/220px-Hungama_TV.svg.png" group-title="Kids",Hungama Kids 5
 https://unknown-playlists.vercel.app/hungama-by-stevosure.m3u8
 
-#EXTINF:-1 tvg-id="Hungama Kids 6" tvg-name="Hungama Kids 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/220px-Hungama_TV.svg.png" group-title="Kids",Hungama Kids 6
+#EXTINF:-1 tvg-id="345" tvg-name="Hungama Kids 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/220px-Hungama_TV.svg.png" group-title="Kids",Hungama Kids 6
 http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",Cartoon Network Hindi
+#EXTINF:-1 tvg-id="238" tvg-name="Cartoon Network Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",Cartoon Network Hindi
 https://bd.spidy.online/MACX/STREAM4K/play.m3u8?id=475130
 
 #EXTINF:-1 tvg-id="Disney India HD" tvg-name="Disney India HD" tvg-logo="https://logodix.com/logo/619085.png" group-title="Kids",Disney India HD
 https://allinonereborn.com/spice.m3u8/?id=634
 
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Kids",Discovery Kids
+#EXTINF:-1 tvg-id="119" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Kids",Discovery Kids
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
-#EXTINF:-1 tvg-id="Sony Yay" tvg-name="Sony Yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
+#EXTINF:-1 tvg-id="45" tvg-name="Sony Yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
 https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=26187%7CReferer=RANAPK
 
-#EXTINF:-1 tvg-id="Sony Yay(GeoRestricted)" tvg-name="Sony Yay 2 (GeoRestricted)" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay 2 (GeoRestricted)
+#EXTINF:-1 tvg-id="45" tvg-name="Sony Yay 2 (GeoRestricted)" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay 2 (GeoRestricted)
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyyay.com/" tvg-name="Sony Yay 3" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay 3
+#EXTINF:-1 tvg-id="45" tvg-name="Sony Yay 3" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay 3
 https://unknown-playlists.vercel.app/sonyyay!.m3u8
 
-#EXTINF:-1 tvg-id="sonyyay.com/" tvg-name="Sony Yay 4" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay 4
+#EXTINF:-1 tvg-id="45" tvg-name="Sony Yay 4" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay 4
 http://bostv.one:8080/85750857500/0004312/92420
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png?20220302022636" group-title="Kids", SUPER HUNGAMA
+#EXTINF:-1 tvg-id="587" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png?20220302022636" group-title="Kids", SUPER HUNGAMA
 https://unknown-playlists.vercel.app/super-hungama.m3u8
 
-#EXTINF:-1 tvg-id="Gubbare" tvg-name="Gubbare" tvg-logo="https://www.epicon.in/img/gubbare-logo.png" group-title="Kids",Gubbare
+#EXTINF:-1 tvg-id="867" tvg-name="Gubbare" tvg-logo="https://www.epicon.in/img/gubbare-logo.png" group-title="Kids",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
-#EXTINF:-1 tvg-id="Nick Hindi" tvg-name="Nick Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/512px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Kids",Nick Hindi
+#EXTINF:-1 tvg-id="138" tvg-name="Nick Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/512px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Kids",Nick Hindi
 https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=150482
 
-#EXTINF:-1 tvg-id="Nick Junior" tvg-name="Nick Junior" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids",Nick Junior
+#EXTINF:-1 tvg-id="118" tvg-name="Nick Junior" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids",Nick Junior
 http://119.156.26.155:8000/play/a061/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sonic Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids",Sonic Hindi
+#EXTINF:-1 tvg-id="127" tvg-name="Sonic Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids",Sonic Hindi
 http://119.156.26.155:8000/play/a05y/index.m3u8
 
-#EXTINF:-1 tvg-id="POGO" tvg-name="POGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/POGO-logo.png/250px-POGO-logo.png" group-title="Kids",POGO
+#EXTINF:-1 tvg-id="239" tvg-name="POGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/POGO-logo.png/250px-POGO-logo.png" group-title="Kids",POGO
 https://tgaadi-web.tech/stalker/portal.m3u8?id=973
 
-#EXTINF:-1 tvg-id="ETV Bal Bharat" tvg-name="ETV Bal Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/ETV_Bal_Bharat.jpg?20210508020308" group-title="Kids",ETV Bal Bharat
+#EXTINF:-1 tvg-id="905" tvg-name="ETV Bal Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/ETV_Bal_Bharat.jpg?20210508020308" group-title="Kids",ETV Bal Bharat
 https://unknown-playlists.vercel.app/etv-bal-bharat-stevosure-tplay.m3u8
 
 #EXTINF:-1 tvg-id="Zoo Moo" tvg-name="Zoo Moo" tvg-logo="https://cdn.prod.website-files.com/64e961c3862892bff815289d/667534c959673c60d0418dad_logo_ZM_web_crop.webp" group-title="Kids",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids",Disney Junior Hindi
+#EXTINF:-1 tvg-id="144" tvg-name="Disney Junior Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids",Disney Junior Hindi
 https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=381018%7CReferer=RANAPK
 
-#EXTINF:-1 tvg-id="Nick HD+" tvg-name="Nick HD+" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="Kids",Nick HD+
+#EXTINF:-1 tvg-id="433" tvg-name="Nick HD+" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="Kids",Nick HD+
 https://tgaadi-web.tech/stalker/portal.m3u8?id=643
 
-#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-name="Cartoon Network HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cartoon_Network_HD%2B_India_logo.png/375px-Cartoon_Network_HD%2B_India_logo.png" group-title="Kids",Cartoon Network HD+
+#EXTINF:-1 tvg-id="681" tvg-name="Cartoon Network HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cartoon_Network_HD%2B_India_logo.png/375px-Cartoon_Network_HD%2B_India_logo.png" group-title="Kids",Cartoon Network HD+
 https://tgaadi-web.tech/stalker/portal.m3u8?id=643
 
 #EXTINF:-1 tvg-id="Chutti TV" tvg-name="Chutti TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Chutti_TV.jpg/revision/latest?cb=20240314122637" group-title="Kids",Chutti TV
