@@ -3,21 +3,44 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kids Channels LIVE - STEVOSURE</title>
+    <title>Web by StevoSure - Playlist by Ranapk</title>
     <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Dark-themed button styles */
+        .page-btn {
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 25px;
+            background-color: #333; /* Dark background */
+            color: white; /* White text */
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+        }
+
+        .page-btn:hover {
+            background-color: #555; /* Lighter dark on hover */
+            transform: scale(1.1); /* Button scaling effect */
+        }
+
+        .page-btn:disabled {
+            background-color: #777; /* Disabled state with a darker gray */
+            cursor: not-allowed;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
-        <h1>Kids Channels LIVE - STEVOSURE</h1>
+        <h1>Opplex TV + Stream 4K LIVE WEB</h1>
         <input type="text" id="search-input" placeholder="Search Channels...">
         <select id="group-select">
             <option value="all">All Groups</option>
         </select>
         <div id="channel-list"></div>
         <div id="pagination-controls">
-            <button id="prev-page">Previous</button>
+            <button id="prev-page" class="page-btn">Previous</button>
             <span id="page-info"></span>
-            <button id="next-page">Next</button>
+            <button id="next-page" class="page-btn">Next</button>
         </div>
     </div>
     <script src="script.js"></script>
