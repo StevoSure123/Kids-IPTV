@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/sony-liv/channel",
+      "dest": "/sony-liv/channel.js"
+    }
+  ]
+}
