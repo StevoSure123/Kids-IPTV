@@ -1,6 +1,6 @@
 export default async function handler(req, res) {
-  const { id } = req.query; // Extract `id` query parameter
-  
+  const { id } = req.query;
+
   if (!id) {
     res.status(400).send("Missing 'id' query parameter.");
     return;
@@ -11,7 +11,7 @@ export default async function handler(req, res) {
   try {
     const response = await fetch(originalUrl, {
       headers: {
-        Referer: "RANAPK", // Add necessary Referer header
+        Referer: "RANAPK", // Add the required Referer header
       },
     });
 
@@ -20,7 +20,7 @@ export default async function handler(req, res) {
       return;
     }
 
-    const m3u8Data = await response.text(); // Get the M3U8 playlist content
+    const m3u8Data = await response.text();
     res.setHeader("Content-Type", "application/vnd.apple.mpegurl");
     res.send(m3u8Data);
   } catch (error) {
