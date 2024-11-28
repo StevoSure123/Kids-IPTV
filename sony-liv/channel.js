@@ -1,5 +1,6 @@
 export default async function handler(req, res) {
-  const { id } = req.query; // Get the `id` query parameter from the URL
+  const { id } = req.query; // Extract `id` query parameter
+  
   if (!id) {
     res.status(400).send("Missing 'id' query parameter.");
     return;
@@ -10,7 +11,7 @@ export default async function handler(req, res) {
   try {
     const response = await fetch(originalUrl, {
       headers: {
-        Referer: "RANAPK", // Include the necessary Referer header
+        Referer: "RANAPK", // Add necessary Referer header
       },
     });
 
