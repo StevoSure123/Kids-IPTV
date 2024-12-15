@@ -2,7 +2,9 @@
   "routes": [
     {
       "src": "/tp.m3u8",
-      "dest": "/api/tp.m3u8.js"
+      "dest": "/api/tp.m3u8.js",
+      "src": "/mega4k.m3u8",
+      "dest": "/api/mega4k.m3u8.js",
     }
   ]
 }
